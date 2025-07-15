@@ -3,5 +3,8 @@ make_classification/
 MNIST/
 aclImdb/
 polarity/
+logs/
+results/
+test/
 
 make_classification/venv/
